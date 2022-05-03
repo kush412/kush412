@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### - 🌱 I’m currently studying about Cyber Security and Offensive Security
+### 🌱 I’m currently studying about Cyber Security and Offensive Security
 ### Contact me: andang.workspace@gmail.com
