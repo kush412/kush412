@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 Welcome to my github
+I am an undergraduate student at FPT University
 <!--
 **kush412/kush412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### - 🌱 I’m currently studying about Cyber Security and Offensive Security
+### Contact me: andang.workspace@gmail.com
